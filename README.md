@@ -49,11 +49,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sunjingzheng&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=9AA9BF&locale=cn&hide=issues,prs,contribs&custom_title=%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunjingzheng&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=56708A&locale=cn&hide=issues,prs,contribs&custom_title=%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE" alt="GitHub 公开数据">
+    <img src="https://github-readme-stats.vercel.app/api?username=sunjingzheng&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=56708A&locale=cn&hide=issues,prs,contribs&custom_title=%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE" alt="GitHub 公开数据" height="150">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjingzheng&layout=compact&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=9AA9BF&langs_count=6&hide=html,css,batchfile,powershell,dockerfile&locale=cn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjingzheng&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=56708A&langs_count=6&hide=html,css,batchfile,powershell,dockerfile&locale=cn" alt="常用语言">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjingzheng&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=56708A&langs_count=6&hide=html,css,batchfile,powershell,dockerfile&locale=cn" alt="常用语言" height="150">
   </picture>
 </p>
 
